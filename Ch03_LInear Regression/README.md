@@ -36,20 +36,25 @@ epoch, batch, iteration 용어를 이해하고 코드로 적용해 봅니다.
 
 선형회귀(행렬 표현)
 
-![Ch03_Linear%20Regression%20da41bf679e0a47f3be8eeb1589cece2f/Untitled.png](Ch03_Linear%20Regression%20da41bf679e0a47f3be8eeb1589cece2f/Untitled.png)
-
-![Ch03_Linear%20Regression%20da41bf679e0a47f3be8eeb1589cece2f/Untitled%201.png](Ch03_Linear%20Regression%20da41bf679e0a47f3be8eeb1589cece2f/Untitled%201.png)
+<div>
+<img src="https://user-images.githubusercontent.com/55529617/104329420-37546100-5530-11eb-98f1-1636bff080c7.png" width=200 height=100>
+<img src="https://user-images.githubusercontent.com/55529617/104329411-358a9d80-5530-11eb-9788-c12740c32df7.png" width=400 height=200>
+</div>
 
 MSE(Mean squared Error)
 
-![Ch03_Linear%20Regression%20da41bf679e0a47f3be8eeb1589cece2f/Untitled%202.png](Ch03_Linear%20Regression%20da41bf679e0a47f3be8eeb1589cece2f/Untitled%202.png)
+<img src="https://user-images.githubusercontent.com/55529617/104329416-36bbca80-5530-11eb-964d-95bd2f3c85c8.png" width=250 height=100>
 
 Mini Batch
 
-![Ch03_Linear%20Regression%20da41bf679e0a47f3be8eeb1589cece2f/Untitled%203.png](Ch03_Linear%20Regression%20da41bf679e0a47f3be8eeb1589cece2f/Untitled%203.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/55529617/104329418-37546100-5530-11eb-884d-67d78dc4c730.png" width=400 height=500>
+</p>
 
 배치 크기(batch size) : 미니 배치의 크기
 
 에포크(Epoch) : 전체 훈련 데이터가 학습에 한 번 사용된 주기
 
 이터레이션(Iteration) : 한 번의 에포크 내에서 이루어지는 매개변수인 가중치 W와 b의 업데이트 횟수
+
+## [Reference]
