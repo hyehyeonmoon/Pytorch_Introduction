@@ -1,8 +1,3 @@
-# Ch05_Softmax
-
-Date: 2021년 1월 12일
-Description: Softmax function and cross entropy loss function
-
 ## [Ch05_Softmax]
 
 3개 이상의 선택지로부터 1개를 선택하는 문제인 다중 클래스 분류(Multi-Class classification)를 풀기 위한 소프트맥스 회귀에 대해서 학습합니다. 
@@ -19,13 +14,13 @@ Description: Softmax function and cross entropy loss function
 
 소프트맥스 함수(Softmax function)
 
-![Ch05_Softmax%20b2c45567ca56475fafb575fd43811f46/Untitled.png](Ch05_Softmax%20b2c45567ca56475fafb575fd43811f46/Untitled.png)
+<img src="https://user-images.githubusercontent.com/55529617/104328133-de37fd80-552e-11eb-8b04-7f34ef74c682.png", width=200, height=100>
 
 크로스 엔트로피(Cross Entrophy)
 
 소프트맥스 함수의 최종 비용 함수에서 k가 2라고 가정하면 결국 로지스틱 회귀의 비용함수와 같다.
 
-![Ch05_Softmax%20b2c45567ca56475fafb575fd43811f46/Untitled%201.png](Ch05_Softmax%20b2c45567ca56475fafb575fd43811f46/Untitled%201.png)
+<img src="https://user-images.githubusercontent.com/55529617/104328130-dd06d080-552e-11eb-9758-991810000891.png", width=400, height=100>
 
 ### [Referrence]
 
