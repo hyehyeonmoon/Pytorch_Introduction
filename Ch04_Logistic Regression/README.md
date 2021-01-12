@@ -17,11 +17,11 @@ Date: 2021년 1월 6일
 
 시그모이드 함수(Sigmoid function)
 
-<img src="https://user-images.githubusercontent.com/55529617/103802408-6d0dcb80-5092-11eb-9072-5d8c4bc7ec0c.png" width=200 height=180>
+<img src="https://user-images.githubusercontent.com/55529617/103802408-6d0dcb80-5092-11eb-9072-5d8c4bc7ec0c.png" width=800 height=180>
 
 크로스 엔트로피(Cross Entrophy)
 
-<img src="https://user-images.githubusercontent.com/55529617/103802412-6e3ef880-5092-11eb-9bd9-d966574d7a5b.png" width=200 height=180>
+<img src="https://user-images.githubusercontent.com/55529617/103802412-6e3ef880-5092-11eb-9bd9-d966574d7a5b.png" width=800 height=180>
 
 ### [Referrence]
 
