@@ -24,4 +24,4 @@
 
 ### [Referrence]
 
-[위키독스](https://wikidocs.net/book/2788)
+[PyTorch로 시작하는 딥러닝](https://wikidocs.net/book/2788)
