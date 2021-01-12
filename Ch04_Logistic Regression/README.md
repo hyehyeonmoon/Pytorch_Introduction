@@ -17,12 +17,12 @@ Date: 2021년 1월 6일
 
 시그모이드 함수(Sigmoid function)
 
-![Ch04_Logistic%20Regression%2064829dc66c8f4dfba66bedc22e3a0e9a/Untitled.png](Ch04_Logistic%20Regression%2064829dc66c8f4dfba66bedc22e3a0e9a/Untitled.png)
+<img src="https://user-images.githubusercontent.com/55529617/103802408-6d0dcb80-5092-11eb-9072-5d8c4bc7ec0c.png" width=200 height=180>
 
 크로스 엔트로피(Cross Entrophy)
 
-![Ch04_Logistic%20Regression%2064829dc66c8f4dfba66bedc22e3a0e9a/Untitled%201.png](Ch04_Logistic%20Regression%2064829dc66c8f4dfba66bedc22e3a0e9a/Untitled%201.png)
+<img src="https://user-images.githubusercontent.com/55529617/103802412-6e3ef880-5092-11eb-9bd9-d966574d7a5b.png" width=200 height=180>
 
 ### [Referrence]
 
-[위키독스](https://wikidocs.net/book/2788)
+[PyTorch로 시작하는 딥러닝](https://wikidocs.net/book/2788)
