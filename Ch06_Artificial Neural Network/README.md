@@ -47,7 +47,7 @@ Sigmoid, Tanh, ReLu, ELU 등등으로 자세한 설명은 github [밑바닥부�
 
 ### Problems
 
-- Overfitting
+- **Overfitting**
 
 | Solution| Description |
 |:-- |:-- |
@@ -57,7 +57,7 @@ Sigmoid, Tanh, ReLu, ELU 등등으로 자세한 설명은 github [밑바닥부�
 | Dropout| 학습과정에서 신경망의 일부를 사용하지 않는 방법|
 
 
-- Vanishing gradient problem
+- **Vanishing gradient problem**
 
 |Solution| Description |
 |:-- |:-- |
@@ -67,7 +67,7 @@ Sigmoid, Tanh, ReLu, ELU 등등으로 자세한 설명은 github [밑바닥부�
 | Layer Normalization| 배치정규화는 미니배치 속 feature 단위로 했다면 층 정규화는 미니 배치 속 샘플 단위로 정규화를 시행, 배치크기에 의존적이지 않으며 RNN에도 적용 가능|
 | Residual net | 층과 층 사이를 건너뛰는 에스컬레이터(?) 설치|
 
-- Local minima에 빠지는 문제
+- **Local minima에 빠지는 문제**
 
 |Solution| Description |
 |:-- |:-- |
