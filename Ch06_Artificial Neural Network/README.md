@@ -39,7 +39,7 @@ Sigmoid, Tanh, ReLu, ELU 등등으로 자세한 설명은 github [밑바닥부�
 
 ### 출력층의 활성화 함수와 오차 함수의 관계
 
-|Problem| Activation | Cost function|
+| Problem| Activation | Cost function|
 |:-- |:-- |:-- |
 | 이진분류|시그모이드 | nn.BCELoss()|
 | 다중클래스분류|소프트맥스 |nn.CrossEntropyLoss() |
@@ -48,7 +48,8 @@ Sigmoid, Tanh, ReLu, ELU 등등으로 자세한 설명은 github [밑바닥부�
 ### Problems
 
 - Overfitting
-|Solution| Description |
+
+| Solution| Description |
 |:-- |:-- |
 | 복잡성을 낮추기| 매개변수를 줄이거나 층 수를 줄이기|
 | 대량의 데이터| semi supervised 또는 Augmentation|
@@ -80,4 +81,4 @@ Sigmoid, Tanh, ReLu, ELU 등등으로 자세한 설명은 github [밑바닥부�
 
 ### [Referrence]
 
-[PyTorch로 ](https://wikidocs.net/book/2788)
+[PyTorch로 시작하는 딥러닝](https://wikidocs.net/book/2788)
